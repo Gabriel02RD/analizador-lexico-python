@@ -33,4 +33,4 @@ Proyecto de la asignatura **Teoría de Compiladores** — Actividad Complementar
 1. Clona el repositorio:
 
    ```bash
-   git clone https://github.com/[TU-USUARIO]/analizador-lexico-python.git
+   git clone https://github.com/Gabriel02RD/analizador-lexico-python.git
